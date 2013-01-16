@@ -1,2 +1,2 @@
-confluence_stats_injector
+skunk_stats_injector
 =========================
